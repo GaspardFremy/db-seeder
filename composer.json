@@ -2,8 +2,7 @@
     "require": {
         "symfony/console": "^4.2",
         "fzaninotto/faker": "^1.8",
-        "vlucas/phpdotenv": "^2.5",
-        "nesbot/carbon": "^2.5"
+        "vlucas/phpdotenv": "^2.5"
     },
     "autoload": {
         "psr-4": {
